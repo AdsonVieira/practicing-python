@@ -1,2 +1,2 @@
 # practicing-python
-Repository created with goal of development knowlead 
+Repository created with the objective of developing knowledge in python 
